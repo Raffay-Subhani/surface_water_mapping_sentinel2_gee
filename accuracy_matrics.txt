@@ -1,0 +1,13 @@
+Confusion Matrix:
+[95, 0],
+[0, 67]
+
+Overall Accuracy: 1.00
+
+Producer Accuracy:
+Non-Water: 1.00
+Water: 1.00
+
+User Accuracy:
+Non-Water: 1.00
+Water: 1.00
